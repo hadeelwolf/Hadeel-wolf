@@ -1,0 +1,49 @@
+{
+  "title": "Catching The God",
+  "description": "",
+  "artist": "Nunu",
+  "author": "Nunu",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1648749117",
+      "groups": {
+        "": [
+          "https://imgur.com/a/lVs4R71"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1648749175",
+      "groups": {
+        "": [
+          "https://imgur.com/a/FflbXOd"
+        ]
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1648749189",
+      "groups": {
+        "": [
+          "https://imgur.com/a/S826GqW"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1648749199",
+      "groups": {
+        "": [
+          "https://imgur.com/a/Va66S03"
+        ]
+      }
+    }
+  }
+}
